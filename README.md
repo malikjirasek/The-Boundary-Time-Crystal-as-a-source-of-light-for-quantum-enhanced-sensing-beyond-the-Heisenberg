@@ -1,20 +1,11 @@
-# The Boundary Time Crystal as a source of light for quantum enhanced sensing
-In a Boundary Time Crystal (BTC), an ensemble of two level emitters can display oscillatory
-behavior in its observables, due to coherent driving and collective dissipation. In the emerging time
-crystal regime, the light emitted by a BTC displays persistent temporal correlations. In this paper,
-we demonstrate how this light can be harnessed as a probing source for an optical phase shift φ
-imprinted on the emission field by an onkown sample. We determine the fundamental bound of
-sensitivity in the limit of long measurement times T and find scaling proportional to √T N 4 in the
-time crystal regime, i.e. the bound obeys the standard quantum limit in the measurement time and
-surpasses Heisenberg scaling in the system size. We further present a measurement protocol, for
-which the estimation error exceeds Heisenberg scaling in system size by cascading the BTC’s output
-into an auxiliary BTC, thereby leveraging the systems open nature
+# The Boundary Time Crystal as a source of light for quantum enhanced sensing beyond the Heisenberg Limit
+Modern precision measurements, such as interferometry for detecting gravitational waves, rely on the estimation of optical phases encoded in light fields. Here, we propose to exploit the collectively enhanced output field of a driven-dissipative many-body open quantum system as a light source in order to improve the precision of estimating optical phases. Pronounced temporal correlations of such output fields benefit the sensitivity of measurement protocols, which we show theoretically by employing a boundary time crystal  as a light source. The fundamental bound on the precision of such estimation shows scaling with system size that surpasses the Heisenberg limit and obeys the standard quantum limit in the measurement time. This scaling can be partially harnessed by a protocol, in which the phase shifted light field is guided into an auxiliary replica system, which serves as a detector that is sensitive to non-trivial temporal correlations of the light.
 
 ## Getting Started
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/bachelor-thesis.git
+   git clone https://github.com/malikjirasek/The-Boundary-Time-Crystal-as-a-source-of-light-for-quantum-enahnced-sensing-beyond-the-Heisenberg.git
    cd bachelor-thesis
 
 2. **Set up the Python environment:**
