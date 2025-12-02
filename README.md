@@ -1,6 +1,8 @@
 # The Boundary Time Crystal as a source of light for quantum enhanced sensing beyond the Heisenberg Limit
 Modern precision measurements, such as interferometry for detecting gravitational waves, rely on the estimation of optical phases encoded in light fields. Here, we propose to exploit the collectively enhanced output field of a driven-dissipative many-body open quantum system as a light source in order to improve the precision of estimating optical phases. Pronounced temporal correlations of such output fields benefit the sensitivity of measurement protocols, which we show theoretically by employing a boundary time crystal  as a light source. The fundamental bound on the precision of such estimation shows scaling with system size that surpasses the Heisenberg limit and obeys the standard quantum limit in the measurement time. This scaling can be partially harnessed by a protocol, in which the phase shifted light field is guided into an auxiliary replica system, which serves as a detector that is sensitive to non-trivial temporal correlations of the light.
 
+https://arxiv.org/abs/2511.23416
+
 ## Getting Started
 
 1. **Clone the repository:**
